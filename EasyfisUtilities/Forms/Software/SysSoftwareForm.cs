@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EasyfisUtilities
+namespace EasyfisUtilities.Forms.Software
 {
-    public partial class Form1 : Form
+    public partial class SysSoftwareForm : Form
     {
-        public Form1()
+        public SysSoftwareForm()
         {
             InitializeComponent();
         }

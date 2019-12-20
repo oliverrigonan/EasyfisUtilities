@@ -1,0 +1,7 @@
+﻿{
+  "Server": "localhost",
+  "Authentication": "SQL Server Authentication",
+  "User": "sa",
+  "Password": "innosoft",
+  "RememberPassword": false
+}
